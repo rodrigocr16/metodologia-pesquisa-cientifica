@@ -1,6 +1,8 @@
 # Metodologia da Pesquisa Cientifico-Tecnológica
-Banco de Dados, 4ºSem<br>
-Fatec São José dos Campos, 2020/2
+Rodrigo César Reis <br>
+Banco de Dados, 4ºSem <br>
+Fatec São José dos Campos, 2020/2 <br>
+
 
 ## Introdução
 ### Problema
