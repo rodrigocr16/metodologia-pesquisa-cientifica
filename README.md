@@ -15,7 +15,7 @@ A falta de controle e supervisão dos pacientes em espera agrega ao problema, on
 A demora no atendimento em casos oncológicos dificulta o tratamento e diminui as chances de recuperação do paciente (O TEMPO, 2019), o que poderia ser evitado com um melhor controle dos pacientes e dos especialistas.<br>
 
 ## 03. Proposta
-Com o Projeto que permite a digitalização de prontuários médicos (SENADO NOTÍCIAS, 2018) o desenvolvimento de uma ferramenta que reúna as informações dos pacientes atendidos pelo SUS se torna não só viável como necessário. Cada município deve controlar suas demandas da rede de saúde (O TEMPO, 2019) e alguns já utilizam ferramentas digitais para os prontuários, mas não é preciso parar por aí.
+Com o Projeto que permite a digitalização de prontuários médicos (SENADO NOTÍCIAS, 2018) o desenvolvimento de uma ferramenta que reúna as informações dos pacientes atendidos pelo SUS se torna não só viável como necessário. Cada município deve controlar suas demandas da rede de saúde (O TEMPO, 2019) e alguns já utilizam ferramentas digitais para os prontuários, mas é possível coletar mais informações e utilizá-las para melhorar a qualidade do atendimento.
 
 A implementação de um banco de dados que contivesse os especialistas e os hospitais cadastrados no Sistema Único de Saúde poderia intervir neste ponto fraco da rede, facilitando a comunicação entre unidades de atendimento e prestadores, potencialmente agilizando os processos de encaminhamento dos pacientes para os especialistas.
 
