@@ -1,20 +1,16 @@
-# Metodologia da Pesquisa Cientifico-Tecnológica
+# A demora no atendimento pelos serviços públicos de saúde originado pela falta de informatização no setor.
 Rodrigo César Reis <br>
-Banco de Dados, 4ºSem <br>
-Fatec São José dos Campos, 2020/2 <br>
+Banco de Dados, 5ºSem <br>
+Fatec São José dos Campos, 2021/1 <br>
 
-## 01. O Problema
-A demora no atendimento pelos serviços públicos de saúde originado pela falta de informatização no setor.
-<br>
-
-## 02. Motivação
+## Motivação
 Agendamentos de consultas com especialistas dentro da rede pública de saúde podem demorar meses para acontecer (G1, 2018). A falta de prazo máximo para encaminhamento, exceto em casos de alguns tipos de câncer (JUSBRASIL, 2016), faz com que os pacientes fiquem sem perspectiva de atendimento e tratamento (G1, 2018)(A TRIBUNA, 2019).<br>
 
 A falta de controle e supervisão dos pacientes em espera agrega ao problema, onde os registros são feitos em ferramentas insuficientes (CORREIO DO ESTADO, 2018), com 39% das instituições de saúde possuindo registros exclusivamente manuscritos (GALILEU, 2019).<br>
 
 A demora no atendimento em casos oncológicos dificulta o tratamento e diminui as chances de recuperação do paciente (O TEMPO, 2019), o que poderia ser evitado com um melhor controle dos pacientes e dos especialistas.<br>
 
-## 03. Proposta
+## Proposta
 Com o Projeto que permite a digitalização de prontuários médicos (SENADO NOTÍCIAS, 2018) o desenvolvimento de uma ferramenta que reúna as informações dos pacientes atendidos pelo SUS se torna não só viável como necessário. Cada município deve controlar suas demandas da rede de saúde (O TEMPO, 2019) e alguns já utilizam ferramentas digitais para os prontuários, mas é possível coletar mais informações e utilizá-las para melhorar a qualidade do atendimento.
 
 A implementação de um banco de dados que contivesse os especialistas e os hospitais cadastrados no Sistema Único de Saúde poderia intervir neste ponto fraco da rede, facilitando a comunicação entre unidades de atendimento e prestadores, potencialmente agilizando os processos de encaminhamento dos pacientes para os especialistas.
@@ -27,7 +23,7 @@ Utilizando o cadastro do paciente e dos hospitais, seria possível encontrar o e
 Com uma possível integração dos horários de atendimentos dos médicos, seria plausível exibir um intervalo de tempo estimado para que o agendamento com aquele profissional fosse efetuado, permitindo também a busca do profissional em uma zona limítrofe definida com o menor tempo de espera.
 
 
-## 04. Referências
+## Referências
 ALMEIDA, S. **Familiares questionam demora e burocracia para atendimento médico pelo SUS**. Disponível em A Tribuna https://www.atribuna.com.br/cidades/saovicente/familiares-questionam-demora-e-burocracia-para-atendimento-médico-pelo-sus-1.74934 Acesso em: 02/12/2020.<br>
 YAHN, N. **Espera por consulta demora até 7 anos, revela CGU**. Disponível em Correio do Estado https://correiodoestado.com.br/cidades/espera-por-consulta-no-sus-demorabr-ate-7-anos-revela-cgu/336933 Acesso em: 02/12/2020.<br>
 OLIVEIRA, S.; MONTEIRO, L. **Medicina de dados: as promessas (e os desafios) do big data na saúde**. Disponível em Galileu https://revistagalileu.globo.com/Ciencia/Saude/noticia/2019/11/medicina-de-dados-promessas-e-os-desafios-do-big-data-na-saude.html Acessado em: 02/12/2020.<br>
