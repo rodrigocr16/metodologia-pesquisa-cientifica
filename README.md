@@ -28,6 +28,11 @@ Apresentação das considerações, contribuições obtidas, conclusão do traba
 ### 6. Referências.
 
 # 2. FUNDAMENTAÇÃO TÉCNICA
+Neste capítulo serão abordados os conceitos fundamentais das tecnologias que serão utilizadas para o desenvolvimento do projeto. As soluções supracitadas são:<br>
+### Blockchain;
+-sample text-
+### Flutter (Ou AngularJS?).
+-sample text-
 
 # 3. DESENVOLVIMENTO
 
