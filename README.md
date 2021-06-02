@@ -31,7 +31,7 @@ Apresentação das considerações, contribuições obtidas, conclusão do traba
 Neste capítulo serão abordados os conceitos fundamentais das tecnologias que serão utilizadas para o desenvolvimento do projeto. As soluções supracitadas são:<br>
 ## Blockchain
 -sample text-
-## Flutter
+## AngularJS
 -sample text-
 
 # 3. DESENVOLVIMENTO
@@ -41,7 +41,7 @@ A solução proposta para o problema utilizará a ferramenta IBM Blockchain Plat
 A natureza do blockchain faz com que as entradas feitas - neste caso as evoluções dos prontuários dos pacientes - sejam imutáveis e irreversíveis, impedindo alterações que não sejam feitas por futuras evoluções de prontuário. A replicação e validação dos contratos gerados pelo sistema garante que as informações dos pacientes não só sejam facilmente acessadas e utilizadas pelas partes interessadas como também garante sua persistência, eliminando atrasos no atendimento em decorrência de perda de documentos ou inconsistências em registros, comum em práticas que adotam um registro físico destas informações.
 
 ## 3.2. Aplicação
-A aplicação faz a interface dos usuários com os _ledgers_. A utilização do sistema deve ser versátil e acessível, uma vez que seu objetivo é substituir modelos consolidados, simples e de baixo custo. Para que isso aconteça a aplicação será desenvolvida buscando um modelo multiplataforma utilizando Flutter, de modo que possa ser utilizada pela web nos computadores das unidades de saúde ou nos celulares dos profissionais se preciso for. Uma aplicação multiplataforma traz maior facilidade e versatilidade no acesso, tornando a solução mais convidativa.
+A aplicação faz a interface dos usuários com os _ledgers_. A utilização do sistema deve ser versátil e acessível, uma vez que seu objetivo é substituir modelos consolidados, simples e de baixo custo. Para que isso aconteça a aplicação será desenvolvida buscando um modelo multiplataforma utilizando front-end em AngularJS de modo que possa ser utilizada pela web nos computadores das unidades de saúde ou nos celulares dos profissionais se preciso for. Uma aplicação multiplataforma traz maior facilidade e versatilidade no acesso, tornando a solução mais convidativa. O back-end será feito utilizando Node, adotado tanto pela integração com Angular quanto com Hyperledger.
 
 # 4. RESULTADOS
 
